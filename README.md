@@ -1,11 +1,10 @@
-# 2019 UCI Web Dev Course Unit 0
- # Unit # - *Name of App Here*
+# Unit 0 - *WEB DEV WITH NODE*
 
-**Name of your app** is a web app that _______.
+**WEB DEV WITH NODE** is a web app that goes over the basics of html and css.
 
 Submitted by: **Gordon Lobins**
 
-Time spent: **4** hours spent in total
+Time spent: **5** hours spent in total
 
 ## User Stories
 
@@ -25,18 +24,6 @@ The following **required** functionality is complete:
 The following **additional** features are implemented:
 
 - [ ] List anything else that you can get done to improve the app functionality (i.e. added ability to remember users when logging out)
-
-## Video Walkthrough 
-
-Here's a walkthrough of implemented user stories:
-
-<img src='http://i.imgur.com/link/to/your/gif/file.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
-
-GIF created with [LiceCap](http://www.cockos.com/licecap/).
-
-## Notes
-
-Describe any challenges encountered while building the app.
 
 ## License
 
